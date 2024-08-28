@@ -25,6 +25,10 @@ This repo is just for me to keep track/practice on Django along with DRF (django
 
 * [ ] Implement service layer (Based on Two Scoops of Django).
 
+* [ ] Change from pip to [uv](https://astral.sh/blog/uv).
+
+* [ ] Setup pre-commit config.
+
 
 ### Installing
 
