@@ -27,8 +27,6 @@ This repo is just for me to keep track/practice on Django along with DRF (django
 
 * [ ] Change from pip to [uv](https://astral.sh/blog/uv).
 
-* [ ] Setup pre-commit config.
-
 
 ### Installing
 
